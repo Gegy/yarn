@@ -212,7 +212,6 @@ CLASS net/minecraft/class_1657 net/minecraft/entity/player/PlayerEntity
 	METHOD method_7348 isPartVisible (Lnet/minecraft/class_1664;)Z
 		ARG 1 modelPart
 	METHOD method_7349 getNextLevelExperience ()I
-	METHOD method_7350 resetLastAttackedTicks (Z)V
 	METHOD method_7351 getBlockBreakingSpeed (Lnet/minecraft/class_2680;)F
 		ARG 1 block
 	METHOD method_7353 sendMessage (Lnet/minecraft/class_2561;Z)V

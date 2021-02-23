@@ -271,7 +271,6 @@ CLASS net/minecraft/class_1309 net/minecraft/entity/LivingEntity
 		ARG 2 count
 	METHOD method_6038 onDismounted (Lnet/minecraft/class_1297;)V
 		ARG 1 vehicle
-	METHOD method_6039 isBlocking ()Z
 	METHOD method_6040 consumeItem ()V
 	METHOD method_6041 getFallSound (I)Lnet/minecraft/class_3414;
 		ARG 1 distance
@@ -424,4 +423,3 @@ CLASS net/minecraft/class_1309 net/minecraft/entity/LivingEntity
 		ARG 1 source
 		ARG 2 amount
 	METHOD method_7261 getAttackCooldownProgress (F)F
-	METHOD method_7284 disableShield (F)Z
