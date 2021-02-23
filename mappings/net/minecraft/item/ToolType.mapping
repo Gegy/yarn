@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_5510 net/minecraft/item/ToolType
+	FIELD field_26797 DAMAGE_MODIFIER_ID Ljava/util/UUID;
+	FIELD field_26798 SPEED_MODIFIER_ID Ljava/util/UUID;
+	FIELD field_26799 REACH_MODIFIER_ID Ljava/util/UUID;
+	METHOD method_31246 getAttackDamage (Lnet/minecraft/class_1832;)F
+	METHOD method_31248 getAttackSpeed (Lnet/minecraft/class_1832;)F
+	METHOD method_31249 getAttackReachModifier (Lnet/minecraft/class_1832;)F
